@@ -1,2 +1,2 @@
 # HorizontalScrollView
-仿照ViewPager，支持子控件的左右滑动，并对与内部控件的滑动冲突进行处理
+仿照ViewPager，支持子控件的左右滑动，并对子控件的滑动冲突进行处理
